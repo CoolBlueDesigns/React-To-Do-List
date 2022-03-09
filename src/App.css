@@ -1,0 +1,36 @@
+body {
+  background-color: #F49791;
+}
+
+.App-header {
+  min-height: 20vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.addPlacement{
+  background-color: #51b28e;
+  width: 40vw;
+  margin: auto;
+  border-radius: 10px
+}
+
+.toDo{
+  background-color: #51b28e;
+  width: 40vw;
+  margin: auto;
+  padding: 1px;
+  border-radius: 10px
+}
+
+.toDoHeader{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  color: #cddcd9;
+  font-weight: bold;
+  text-decoration-line: underline;
+}
